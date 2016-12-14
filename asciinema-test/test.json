@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 21,
+  "duration": 7.276736,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.456548,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.000022,
+      "\u001b]2;ling@lingdeMacBook-Pro: ~/tool\u0007\u001b]1;~/tool\u0007"
+    ],
+    [
+      0.016695,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mtool\u001b[00m \u001b[K"
+    ],
+    [
+      0.000131,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.707586,
+      "i"
+    ],
+    [
+      0.045610,
+      "\u0008id"
+    ],
+    [
+      0.200994,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000055,
+      "\r\r\n"
+    ],
+    [
+      0.001230,
+      "\u001b]2;id\u0007"
+    ],
+    [
+      0.000032,
+      "\u001b]1;id\u0007"
+    ],
+    [
+      0.011040,
+      "uid=501(ling) gid=20(staff) groups=20(staff),501(access_bpf),701(com.apple.sharepoint.group.1),12(everyone),61(localaccounts),79(_appserverusr),80(admin),81(_appserveradm),98(_lpadmin),33(_appstore),100(_lpoperator),204(_developer),395(com.apple.access_ftp),398(com.apple.access_screensharing),399(com.apple.access_ssh)\r\n"
+    ],
+    [
+      0.000573,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.000139,
+      "\u001b]2;ling@lingdeMacBook-Pro: ~/tool\u0007\u001b]1;~/tool\u0007"
+    ],
+    [
+      0.014292,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mtool\u001b[00m "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000137,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.055461,
+      "e"
+    ],
+    [
+      0.302345,
+      "\u0008ex"
+    ],
+    [
+      0.095911,
+      "i"
+    ],
+    [
+      0.223945,
+      "t"
+    ],
+    [
+      0.137802,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000048,
+      "\r\r\n"
+    ],
+    [
+      0.000503,
+      "\u001b]2;exit\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;exit\u0007"
+    ]
+  ]
+}
